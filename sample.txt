@@ -1,0 +1,3 @@
+Reading file content
+Line1: I love my country
+Line2: I love my Mom
